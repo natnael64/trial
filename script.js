@@ -1,5 +1,6 @@
 const person = new Set();
 
+
 function registration(submitBtn, event){
     submitBtn.addEventListener('click', function(event){
         event.preventDefault();
